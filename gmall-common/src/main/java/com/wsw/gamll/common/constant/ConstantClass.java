@@ -8,4 +8,5 @@ package com.wsw.gamll.common.constant;
  **/
 public class ConstantClass {
 
+    public static final String KAFKA_TOPIC_STARTUP="GMALL_STARTUP";
 }
