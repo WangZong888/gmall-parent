@@ -1,6 +1,7 @@
 package com.wsw.gmall.logger.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
+
 import org.springframework.web.bind.annotation.RestController;
 
 /**
